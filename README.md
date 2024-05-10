@@ -1,6 +1,7 @@
 # VSCode Online via Docker
 
 VSCode Online via Docker allows you to run a full-featured Visual Studio Code environment accessible through your web browser. This setup is perfect for developers looking for an easily accessible and consistent coding environment.
+![image](https://github.com/andri-andreal/vscode-online/assets/17041965/9e45bc63-1502-4255-ae60-05d4f6e078b8)
 
 ## Installation
 
@@ -21,7 +22,6 @@ sudo docker-compose up -d
 ## Usage
 
 Access your VSCode environment by navigating to `http://<ip-or-localhost>:8443` in a web browser. Replace `<ip-or-localhost>` with the actual IP address or `localhost` if running on your local machine. Enter the password defined in the `PASSWORD` environment variable when prompted.
-
 
 
 ## Contributing
